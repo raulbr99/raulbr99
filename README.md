@@ -1,108 +1,28 @@
-<h1 align="left" id="queopius-title">
-  <img src="https://raw.githubusercontent.com/queopius/queopius/master/wave.gif" width="30"> 
-  Hello there! I'm Raul Berna.
-</h1>
+### Hi there, I'm Raúl Berná 👋
+
+---
+
+**Full Stack Web Developer**  
+Location: Dublin, Ireland  
+[![Email](https://img.shields.io/badge/Email-raulbernariera99%40gmail.com-red)](mailto:raulbernariera99@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-rauldev.dev-blue)](https://rauldev.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raul--berna--riera-blue)](https://www.linkedin.com/in/raul-berna-riera/)  
+[![GitHub](https://img.shields.io/badge/GitHub-raulbr99-black)](https://github.com/raulbr99)
+[![X](https://img.shields.io/badge/Twitter-@raulddev-blue)](https://x.com/raulddev)
+
+---
+
+#### About Me
+I am a 24-year-old software developer from Alicante, Spain, passionate about technology and an enthusiast for both web development and padel. I am continuously learning in the world of software development, and I am motivated to keep learning with every project I undertake. Every day brings technological advancements, making it a never-ending learning cycle. While my primary interest is in frontend development, I am always open to learning new things.
+
+---
+
+#### MAIN SKILLS
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)    ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)    ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?logo=react)    ![NextJS](https://img.shields.io/badge/-NextJS-black?logo=next.js)    ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)    ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)    ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwindcss)    ![Astro](https://img.shields.io/badge/-Astro-black?logo=astro)
 
 
-<a href="https://twitter.com/raulddev" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/raulddev?style=social" alt="X (formerly Twitter) Follow" />
-</a>
+---
 
-
-I am a developer with more than 8 years of experience, specialized in web application development using the Laravel PHP framework.  
-
-Throughout my career, I've taken on roles as a Tech Lead for more than 3 years, where I've led software development teams and guided projects through all stages of the software development lifecycle.
-
-Beyond my professional activities, I am also passionate about Capoeira, where I serve as a teacher, and I like to play the guitar in my spare time.
-
-
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/queopius" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
-</a>
-
-
-## 🧐 About
-
-<a href="#raulbr99-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=raulbr99&show_icons=true&theme=transparent" alt="raulbr99" align="right" />
-</a>
-
-- :office: &nbsp;I'm currently working at **[fantomid]**
-- :speech_balloon: &nbsp;I like to talk about **Clean Code** and **Laravel**
-- :book: &nbsp;Learn more about my projects on my **[dev]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-<br /><br />
-
-<h2 align="left" id="queopius-tech">⚡ Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-
-<br />
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=queopius&hide_border=true" />
-  <img height="100" src="https://github-profile-trophy.vercel.app/?username=queopius&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04 LTS (Focal Fossa) </li>
-	    <li><b>Laptop: </b> MSI GF75</li>
-  	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Jenkins, Slack and Laravel</li>
-	    <li><b>To Stay Updated:</b> Linkedin, Publishing of Tips for Developers</li>
-	</ul>
-
-</details>
-
-
-#
-
-<div align="center">
-	
-### Show some ❤️ by starring some of the repositories!
-
-<img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" />
-<img src="https://img.shields.io/badge/TDD-Advocate-_.svg">
-<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg">
-
-</div>
-
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[fantomid]: https://github.com/Fantomid-LLC "Fantomid Github Home"
-[issues page]: https://github.com/Queopius/queopius/issues "Queopius/issues"
-[linkedin]: https://www.linkedin.com/in/queopius "Queopius A.S. LinkedIn"
-[dev]: https://dev.to/queopius "Dev"
+#### GitHub Stats
+![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulbr99&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulbr99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
