@@ -3,10 +3,8 @@
   Hello there! I'm Raul Berna.
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Raul-Berna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-berna-riera/)](https://www.linkedin.com/in/raul-berna-riera/)
-![status](https://img.shields.io/badge/status-up-brightgreen) 
-[![GitHub followers](https://img.shields.io/github/followers/queopius?label=Follow&style=social)](https://github.com/raulbr99/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-raulbernariera99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raulbernariera99@gmail.com)](mailto:raulbernariera99@gmail.com)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/raulddev?style=social)
 
 
 I am a developer with more than 8 years of experience, specialized in web application development using the Laravel PHP framework.  
@@ -26,8 +24,8 @@ Like My Work?
 
 ## 🧐 About
 
-<a href="#queopius-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=queopius&show_icons=true&theme=transparent" alt="queopius" align="right" />
+<a href="#raulbr99-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=raulbr99&show_icons=true&theme=transparent" alt="raulbr99" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[fantomid]**
