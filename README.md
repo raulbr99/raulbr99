@@ -3,7 +3,7 @@
   Hello there! I'm Raul Berna.
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Queopius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-berna-riera/)](https://www.linkedin.com/in/raul-berna-riera/)
+[![Linkedin Badge](https://img.shields.io/badge/-Raul-Berna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-berna-riera/)](https://www.linkedin.com/in/raul-berna-riera/)
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
 [![GitHub followers](https://img.shields.io/github/followers/queopius?label=Follow&style=social)](https://github.com/raulbr99/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-raulbernariera99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raulbernariera99@gmail.com)](mailto:raulbernariera99@gmail.com)
