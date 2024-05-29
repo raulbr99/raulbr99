@@ -5,9 +5,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Queopius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-berna-riera/)](https://www.linkedin.com/in/raul-berna-riera/)
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
-[![GitHub followers](https://img.shields.io/github/followers/queopius?label=Follow&style=social)](https://github.com/queopius/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-dev.queopius@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.queopius@gmail.com)](mailto:dev.queopius@gmail.com)
-![issues](https://img.shields.io/github/issues/queopius/queopius.svg)
+[![GitHub followers](https://img.shields.io/github/followers/queopius?label=Follow&style=social)](https://github.com/raulbr99/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-raulbernariera99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raulbernariera99@gmail.com)](mailto:raulbernariera99@gmail.com)
 
 
 I am a developer with more than 8 years of experience, specialized in web application development using the Laravel PHP framework.  
