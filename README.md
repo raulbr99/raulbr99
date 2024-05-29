@@ -4,7 +4,9 @@
 </h1>
 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/raulddev?style=social)
+<a href="https://twitter.com/raulddev" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/raulddev?style=social" alt="X (formerly Twitter) Follow" />
+</a>
 
 
 I am a developer with more than 8 years of experience, specialized in web application development using the Laravel PHP framework.  
