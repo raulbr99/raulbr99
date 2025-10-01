@@ -19,17 +19,7 @@ Currently, I focus on full stack development using **React, Next.js, Node.js, an
 ---
 
 #### Main Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)    
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)    
-![ReactJS](https://img.shields.io/badge/-ReactJS-blue?logo=react)    
-![NextJS](https://img.shields.io/badge/-NextJS-black?logo=next.js)    
-![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=node.js)    
-![NestJS](https://img.shields.io/badge/-NestJS-red?logo=nestjs)    
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)    
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)    
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwindcss)    
-![Astro](https://img.shields.io/badge/-Astro-black?logo=astro)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript) ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?logo=react) ![NextJS](https://img.shields.io/badge/-NextJS-black?logo=next.js) ![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=node.js) ![NestJS](https://img.shields.io/badge/-NestJS-red?logo=nestjs) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwindcss) ![Astro](https://img.shields.io/badge/-Astro-black?logo=astro)
 ---
 
 #### GitHub Stats
